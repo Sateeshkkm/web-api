@@ -1,0 +1,12 @@
+{
+  "ServerUri": "https://sonar-lab.cdk.com/",
+  "Organization": null,
+  "ProjectKey": "dotnetcore.test",
+  "ProjectName": "dotnetcore.test",
+  "Profiles": {
+    "CSharp": {
+      "ProfileKey": "cs-desking-v1-c-quality-profile-93930",
+      "ProfileTimestamp": "2018-07-03T10:14:25Z"
+    }
+  }
+}
